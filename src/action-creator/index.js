@@ -1,0 +1,1 @@
+export * as ecommerceActionCreator from './action-creator';
